@@ -27,3 +27,8 @@ config in config.json and run it
 
 edit `config.json` lol
 
+# PREVIEW
+
+<img src="https://cdn.upload.systems/uploads/RLjj5Uhu.gif"/>
+
+it may slowdown becuz of rate limit XD
