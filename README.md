@@ -1,3 +1,9 @@
+it may slowdown becuz of rate limit XD
+
+also self botting is against the tos so gl lol
+
+i made this shit long time ago so dont expect much
+
 # IMPORTANT (FRAMES)
 
 1)download this file
@@ -31,4 +37,3 @@ edit `config.json` lol
 
 <img src="https://cdn.upload.systems/uploads/RLjj5Uhu.gif"/>
 
-it may slowdown becuz of rate limit XD
