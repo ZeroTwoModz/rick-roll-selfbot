@@ -14,7 +14,7 @@ https://mega.nz/file/2qhzCC6J#lOw26_WbAhWiVh2EvfKvyys4lJm2oZDLQhiuC3Nr6P0
 
 2)extract it
 
-3)put folder `frames` in `rick-roll-selfbot`
+3)move folder `frames` in `rick-roll-selfbot`
 
 # INSTALLATION
 
