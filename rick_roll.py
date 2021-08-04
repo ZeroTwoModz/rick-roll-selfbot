@@ -3,6 +3,12 @@ import time
 import json
 import os
 ASCII_CHARS = ['⠀','⠄','⠆','⠖','⠶','⡶','⣩','⣪','⣫','⣾','⣿']
+'''
+RECOMMEND USING THOSE CHARS FOR COMMAND PROMPT
+
+$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~i!lI;:,\"^`
+'''
+
 
 def resized_gray_image(image ,new_width=70):
 	width,height = image.size
