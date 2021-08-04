@@ -4,9 +4,9 @@ import json
 import os
 ASCII_CHARS = ['⠀','⠄','⠆','⠖','⠶','⡶','⣩','⣪','⣫','⣾','⣿']
 '''
-RECOMMEND USING THOSE CHARS FOR COMMAND PROMPT
+REPLACE ASCII_CHARS WITH THIS FOR COMMAND PROMPT STUFF
 
-$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~i!lI;:,\"^`
+ASCII_CHARS = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~i!lI;:,\"^`"
 '''
 
 
