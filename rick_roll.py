@@ -48,7 +48,7 @@ async def start(ctx):
 		i = 0
 		isCreated = False
 		msg = None
-		while i < 4053:
+		while i < 5301:
 			i = i + 3
 			img = Image.open(f"frames/frame{i}.jpg")
 			frame = generate_frame(img,60);
