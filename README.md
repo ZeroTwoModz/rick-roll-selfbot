@@ -6,14 +6,16 @@ i made this shit long time ago so dont expect much
 
 # IMPORTANT (FRAMES)
 
-DOWNLOAD FRAMES:
+**DOWNLOADING FRAMES:**
 
 https://mega.nz/file/7ewmlYiK#tKX5v8nw9PTd8fPH18XLCmkwdmhXpik_XA0y2pUnd0U
+
+after downloading it, open it and you will see folder with name `frames`, move that to `rick-roll-selfbot`
 
 but if this doesn't work anymore extract it by urself (follow steps below)
 
 
-EXTRACTING FRAMES BY URSELF:
+**EXTRACTING FRAMES BY URSELF:**
 
 First go to this link: https://www.gyan.dev/ffmpeg/builds/
 
